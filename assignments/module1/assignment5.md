@@ -13,5 +13,5 @@ Aufgaben:
 - Alle: Sammelt alle benötigten Materialien (Bilder, Texte, Musik) und fügt sie zusammen.
 - KI-Challenge: Nutzt ein KI-Tool, um ein Element für euer Projekt zu generieren und dokumentiert das Ergebnis.
 
-Speichert euren Fortschritt am Ende der Stunde in eurem Team-Ordner!
+Gebt die aktuelle Fassung hier ab.
 
