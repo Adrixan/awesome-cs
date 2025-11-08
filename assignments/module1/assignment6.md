@@ -7,7 +7,6 @@
 Euer Fahrplan:
 1. Sprint Review (Präsentation & Feedback):
 - Bereitet eine kurze Präsentation eures fertigen Videos oder eurer Plakatserie vor (max. 3 Minuten).
-- Seid bereit, nach den Präsentationen allen anderen Teams konstruktives Feedback über das bereitgestellte MS-Forms-Formular zu geben.
 
 2. Sprint Retrospektive (Team-Reflexion):
 - Geht nach dem Review in euer Team.
@@ -15,3 +14,6 @@ Euer Fahrplan:
 
 Ziel: Wir feiern unsere Erfolge, lernen aus dem Prozess und werden als Team noch besser.
 
+Abgabe:
+- Die Präsentation
+- Die gemeinsame Retrospektive
