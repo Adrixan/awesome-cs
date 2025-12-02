@@ -8,11 +8,11 @@ Hallo Team,
 jetzt wird's offiziell! Wir verwandeln unsere Daten in ein überzeugendes Angebot.
 
 Euer heutiger Auftrag:
-1. Dokument erstellen: Erstellt aus der bereitgestellten Word-Vorlage euer finales Angebotsdokument.
-2. Daten übertragen: Kopiert die finalen Komponenten und Preise für alle drei Profile (Gabi, Otto, Max) aus eurer Excel-Tabelle in die Word-Vorlage.
-3. Begründungen formulieren: Schreibt für jedes Profil einen kurzen Absatz, in dem ihr erklärt, warum eure Auswahl die perfekte Lösung für die jeweilige Person ist.
-4. KI-Challenge: Nutzt eine KI für einen kreativen Einleitungstext zu einem der Angebote und verfeinert diesen.
-5. Layout & Design: Achtet auf ein sauberes, professionelles und einheitliches Erscheinungsbild!
+1. Dokument erstellen: Erstellt euer finales Angebotsdokument, holt euch Inspiration für übersichtliche Angebote im Internet.
+2. Daten übertragen: Kopiert die finalen Komponenten und Preise für das von euch gewählte Profil aus eurer Excel-Tabelle in euer Word-Dokument.
+3. Begründungen formulieren: Schreibt einen kurzen Absatz, in dem ihr erklärt, warum eure Auswahl die perfekte Lösung für die Person ist.
+4. KI-Challenge: Nutzt zusätzlich eine KI für einen kreativen Einleitungstext zu einem der Angebote und verfeinert diesen.
+5. Layout & Design: Achtet auf ein sauberes, professionelles und einheitliches Erscheinungsbild! (Formatvorlagen, Tabellen, Aufzählungen, ...)
 
 Ziel: Ein fertiges, überzeugendes Angebotsdokument, das ihr einem Kunden schicken würdet. 
 
