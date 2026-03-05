@@ -2,19 +2,22 @@
 
 ## Warum: Wir lernen unsere Arbeitsergebnisse professionell zu präsentieren und Design-Entscheidungen zu begründen.
 
-## Aufgabe: Präsentation & Reflexion
+## Aufgabe: Feedback & Reflexion
 
 Hallo Teams,
-heute ist die letzte Runde für unser Datenvisualisierungs-Projekt. Showtime!
+heute ist die letzte Runde für unser Datenvisualisierungs-Projekt. 
 
 Euer Fahrplan:
-1. Sprint Review (ca. 25 Min):
-- Jedes Team präsentiert seine finale Infografik. Ihr habt exakt 2 Minuten Zeit. Beantwortet dabei: 1. Welche Geschichte erzählt eure Grafik? 2. Warum habt ihr dieses Design gewählt? 3. Was hat euch an den Daten am meisten überrascht?
-- Gebt im Anschluss allen anderen Teams konstruktives Feedback über den MS-Forms-Link, der im Chat geteilt wird.
+1. Feedback (ca. 25 Min):
+- Je 2 Teams teilen wechselweise ihre Infografiken miteinander. Beantwortet gegenseitig folgende Fragen: 1. Welche Geschichte erzählt die Grafik? 2. Wie hilft das Design die Fragik zu verstehen? 3. FIndet ihr das Ergebnis überraschend?
+- Teilt euer Feedback mit dem anderen Team
 
 2. Sprint Retrospektive (ca. 15 Min):
-- Geht danach in eure Team-Räume.
-- Reflektiert euren Arbeitsprozess mit der "Stern-Retrospektive"-Vorlage auf dem Whiteboard.
+- Jedes Team arbeitet gemeinsam in einem Word Dokument
+- Fügt das Feedback des anderen Teams in euer Word Dokument ein
+- Reflektiert anschließend:
+  - gemeinsam: Wie war die Zusammenarbeit, was hat funktioniert, was nicht?
+  - jede:r für sich: Was habe ich gelernt? Was hat mir gefehlt? Würde ich mir zutrauen das jetzt alleine zu machen?
 
-Ziel: Wir präsentieren unsere Ergebnisse professionell, lernen aus dem Feedback und verbessern unsere Teamarbeit. 
-
+Abgabe:
+Ein Word-Dokument/Team mit dem Feedback, Team-Retrospektive und Einzel-Retrospektiven, sinnvoll formatiert mit Titel, Überschriften, Aufzählungen, ...
